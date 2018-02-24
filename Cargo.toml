@@ -1,0 +1,6 @@
+[package]
+name = "rthrift_tutorial"
+version = "0.1.0"
+authors = ["okanon <flat.cydia37jins.pc@gmail.com>"]
+
+[dependencies]
