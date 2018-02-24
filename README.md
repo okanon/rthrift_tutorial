@@ -2,7 +2,7 @@
 
 [![Build Version](https://img.shields.io/crates/v/rthrift_tutorial.svg)](https://crates.io/crates/rthrift_tutorial)
 [![Build Status](https://travis-ci.org/okanon/rthrift_tutorial.svg?branch=master)](https://travis-ci.org/okanon/rthrift_tutorial/)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/okanon/rthrift_tutorial?branch=master&svg=true)](https://ci.appveyor.com/project/okanon/rthrift_tutorial/branch/master)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/okanon/rthrift_tutorial?branch=master&svg=true)](https://ci.appveyor.com/project/okanon/rthrift-tutorial/branch/master)
 
 ## Installation
 This method support over Rust 1.7. :
