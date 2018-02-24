@@ -17,6 +17,13 @@ This method support over Rust 1.7. :
 
 3. Add the binary to your `PATH`. This can be done by moving it to a directory already in your `PATH` (i.e. `/usr/local/bin`) or by adding the `./target/release/` directory to your `PATH`
 
+## How to Use
+
+```rthrift_tutorial_server```
+
+another shell
+```rthrift_tutorial_client```
+
 ## Getting Started
 
 1. Get the [Thrift compiler](https://thrift.apache.org).
